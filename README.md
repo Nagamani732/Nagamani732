@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 Senior Member Technical Staff at Oracle OCI.
 
-    🌱 I'm currently working on DBaaS Control Plane to manage databases on VM & BM, with multiple stakeholders and with a complex net of dependencies.
-    🐱‍💻 In my intermission, I like to learn all sorts of algorithms. I'm also learning Java and system design.
+   * 🌱 I'm currently working on DBaaS Control Plane to manage databases on VM & BM, with multiple stakeholders and with a complex net of dependencies.
+   * 🐱‍💻 In my intermission, I like to learn all sorts of algorithms. I'm also learning Java and system design.
